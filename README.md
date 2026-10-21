@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hola, Soy Miguel Cauich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**angelcauich12/angelcauich12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desarrollador+Full+Stack;Desarrollo+M%C3%B3vil;Desarrollo+Web;Aprendizaje+Continuo" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+- :technologist: `Desarrollador Full Stack` con más de 3 años de experiencia.
+- :computer: Especialista en `Flutter` y `Desarrollo Móvil` 
+- :rocket: Despliegues en plataformas `Google Play` y `App Store`
+- :sparkles: Manejo de `Clean Architecture`
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
